@@ -2,6 +2,14 @@
 
 Translate-My-Site is a Python script that uses the Google Cloud Translation API to translate the text in HTML files. The script can translate a single file, multiple files, or all HTML files in a directory recursively. The user can specify the target language and the HTML tags to be translated.
 
+## Support
+
+If you find this project useful and would like to support its development, you can buy me a coffee by clicking the button below:
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/yu3ufe)
+
+Your support is greatly appreciated!
+
 ## Requirements
 
 - Python 3
@@ -69,14 +77,6 @@ python translate.py -f example.html -s path/to/google/credentials.json -t title 
 ## Customization
 
 The script can be easily customized to meet specific needs. For example, you can add support for additional command-line arguments or modify the `translate_file` function to change how the translation is performed.
-
-## Support
-
-If you find this project useful and would like to support its development, you can buy me a coffee by clicking the button below:
-
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/yu3ufe)
-
-Your support is greatly appreciated!
 
 ## Contributions
 
