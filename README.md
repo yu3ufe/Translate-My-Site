@@ -70,6 +70,14 @@ python translate.py -f example.html -s path/to/google/credentials.json -t title 
 
 The script can be easily customized to meet specific needs. For example, you can add support for additional command-line arguments or modify the `translate_file` function to change how the translation is performed.
 
+## Support
+
+If you find this project useful and would like to support its development, you can buy me a coffee by clicking the button below:
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/yu3ufe)
+
+Your support is greatly appreciated!
+
 ## Contributions
 
 Contributions are welcome! If you find any bugs or have suggestions for improving the script, please open an issue or submit a pull request.
